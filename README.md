@@ -1,6 +1,9 @@
 # se-project
 This project was made for a univeristy software engineering class
 
+## Description
+A Spring Boot web application for managing diploma theses between professors and students. Professors can create thesis topics, review student applications, assign theses, and grade students, while students can browse topics and apply for them.
+
 ## How to run
 
 ### On Windows (Command Prompt/PowerShell): 
