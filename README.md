@@ -10,6 +10,8 @@ This project was made for a univeristy software engineering class
 chmod +x mvnw   (Only needed once to grant execution permission)
 ./mvnw spring-boot:run
 
+### Default page http://localhost:8080/login
+
 ### Default users
 
 password is 123 for all
